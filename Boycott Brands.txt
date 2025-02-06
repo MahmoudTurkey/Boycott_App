@@ -1,0 +1,86 @@
+Visa
+Caterpillar
+Hyundai Heavy Industries
+Alstom
+GE (General Electric)
+Bosch
+Sanofi
+GlaxoSmithKline (GSK)
+Novartis
+Abbott
+Eli Lilly
+Comcast
+Fox News
+Sony
+Warner Music Group
+Universal Music Group
+Ryanair
+Hilton Hotels
+Marriott
+Avis
+Hardees
+Apple
+Microsoft
+Google
+Amazon
+Facebook
+Mcdonald's
+KFC
+Tesla
+Samsung
+Intel
+IBM
+Cisco
+Oracle
+Adobe
+Salesforce
+Netflix
+PayPal
+Unilever
+Procter & Gamble
+Johnson & Johnson
+Pfizer
+Merck
+PepsiCo
+Coca-Cola
+Nestle
+Danone
+Kellogg's
+Boeing
+Lockheed Martin
+Airbus
+Siemens
+Hitachi
+Panasonic
+Sharp
+LG Electronics
+Xiaomi
+Huawei
+Tencent
+Alibaba
+eBay
+Walmart
+Target
+Costco
+FedEx
+UPS
+DHL
+Volkswagen
+Toyota
+Ford
+BMW
+Mercedes-Benz
+Nissan
+Audi
+Ferrari
+Lamborghini
+Porsche
+Rolls-Royce
+Hyatt
+InterContinental Hotels
+Delta Airlines
+American Airlines
+Southwest Airlines
+Qantas
+Etihad Airways
+Emirates
